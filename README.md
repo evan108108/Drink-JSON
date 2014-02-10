@@ -7,7 +7,7 @@ Simple JSON encoding module for Elixir lists
 		  
 ```elixir
 my_list = [
-	 field_1: "some value"
+	 field_1: "some value",
 	 field_2: 2
 ] 
 
