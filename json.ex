@@ -8,7 +8,7 @@ defmodule Json do
 		  
 	```elixir
 	my_list = [
-	   field_1: "some value"
+	   field_1: "some value",
 	   field_2: 2
 	] 
 
