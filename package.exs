@@ -1,5 +1,5 @@
 Expm.Package.new(
-  name: "DrinkJson", 
+  name: "drink_json", 
   description: "Elixir library for JSON encoding",
   version: "0.0.1", 
   keywords: ["Elixir", "json", "encoder", "encode"], 
